@@ -16,7 +16,7 @@
 
 # 
 # Baseado no projeto ATIVIDADE_PRATICA_POO_EAD_PARTE3 faça:
-a) Crie um método para ser aplicado no cálculo de consumo de cada mesa. 
+a) Crie um método para ser aplicado no cálculo de consumo de cada mesa. O método calculaValorCervejaTipo pode ser usado como base da resolução.
 #
-O método calculaValorCervejaTipo pode ser usado como base da resolução.
-
+b)Crie as condições para aplicar os conceitos de Herança, Encapsulamento e Polimorfismo baseado no cenário hiotético da figura abaixo.
+![Imagem1](https://user-images.githubusercontent.com/57069179/67714740-e6923000-f99e-11e9-9693-24b4ac40da1c.png)
