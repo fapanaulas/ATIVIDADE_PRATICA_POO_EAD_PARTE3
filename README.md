@@ -1,6 +1,5 @@
-
 # PROGRAMAÇÃO POO - ATIVIDADE INDIVIDUAL
-# CONCEITOS DE ENCAPSULAMENTO
+# CONCEITOS DE POLIMORFISMO
 
 # TODAS AS ORIENTAÇÕES DA ATIVIDADE FICARÁ NESTE README
 # -------------------------------------------------------------------------------
@@ -16,11 +15,9 @@
 ![orientação](https://user-images.githubusercontent.com/57069179/67642118-f3e7e580-f8de-11e9-934a-6d8bb7e92a96.png)
 
 # 
-# Baseado no projeto ATIVIDADE_PRATICA_POO_EAD_PARTE2 faça:
-a) adicione atributos com os modificados de acesso: private, protected e public na classe Cerveja
-# 
-b) Crie o método get para ler o atributo e um método set para informar um valor ao atributo criado. 
-# 
-d) crie uma classe com um método principal. Nesta classe deverá instanciar a classe Cerveja
-# 
-d) com o objeto instanciado, execute os atributos herdados pela classe instanciada por este objeto
+# Baseado no projeto ATIVIDADE_PRATICA_POO_EAD_PARTE3 faça:
+a) Crie um método para ser aplicado no cálculo de consumo de cada mesa. O método calculaValorCervejaTipo pode ser usado como base da resolução.
+#
+b) Crie as condições para aplicar os conceitos de Herança, Encapsulamento e Polimorfismo baseado no cenário hipotético da figura abaixo.
+#
+![Imagem1](https://user-images.githubusercontent.com/57069179/67714740-e6923000-f99e-11e9-9693-24b4ac40da1c.png)
