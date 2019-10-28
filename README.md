@@ -16,6 +16,7 @@
 
 # 
 # Baseado no projeto ATIVIDADE_PRATICA_POO_EAD_PARTE3 faça:
-a) Crie um método para ser aplicado no cálculo de consumo de cada mesa. O método calculaValorCervejaTipo pode ser usado como
-base da resolução.
+a) Crie um método para ser aplicado no cálculo de consumo de cada mesa. 
+#
+O método calculaValorCervejaTipo pode ser usado como base da resolução.
 
